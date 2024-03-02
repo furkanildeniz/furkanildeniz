@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **furkanildeniz@gmail.com**
 
-- 📄 Know about my experiences [https://publuu.com/flip-book/419740/948892](https://publuu.com/flip-book/419740/948892)
+- 📄 Know about my experiences [
+                https://publuu.com/flip-book/419740/949012](
+                https://publuu.com/flip-book/419740/949012)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
