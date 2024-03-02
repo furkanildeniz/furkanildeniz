@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Furkan Ildeniz</h1>
 <h3 align="center">I started as a civil engineer, but later decided to become a data analyst, and I am continuing on this path.</h3>
 
-- 🔭 I’m working with Miuul as a Teaching Assistant [Data Analyst Bootcamp](https://miuul.com/data-analyst-bootcamp)
+- 🔭 I’m working for Miuul as a Teaching Assistant [Data Analyst Bootcamp](https://miuul.com/data-analyst-bootcamp)
 
 - 🌱 I’m currently learning **Agile and Scrum**
 
