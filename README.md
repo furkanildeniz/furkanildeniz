@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **furkanildeniz@gmail.com**
 
-- 📄 Know about my experiences [
-                https://publuu.com/flip-book/419740/961156/page/1](
-                https://publuu.com/flip-book/419740/961156/page/1)
+- 📄 Know about my experiences https://drive.google.com/file/d/1RibNC5nv_V8GywTYoCvINk_z1w1JRHir/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
